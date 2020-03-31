@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, "C:\SVN\spatial-pooch")
+#sys.path.insert(0, "C:\SVN\spatial-pooch")
 import pytest
 import unittest
 import pandas as pd
